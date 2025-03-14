@@ -1,0 +1,508 @@
+{
+  "relevant_jobs": [
+    {
+      "job_title": "Construction Engineer for KSA",
+      "company": "Lasifa International",
+      "experience": "3+ years",
+      "jobNature": "remote",
+      "location": "Rawalpindi, PPB, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=9415e7d1cc1d2526"
+    },
+    {
+      "job_title": "Copywriter",
+      "company": "N/A",
+      "experience": "1-2 years",
+      "jobNature": "remote",
+      "location": "Islamabad I-10/Markaz, PTA, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=d238732fa7404a67"
+    },
+    {
+      "job_title": "DevOps Engineer",
+      "company": "Essentia Technologies (Pvt) Limited",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Islamabad, PIS, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=aa6affdd153bf334"
+    },
+    {
+      "job_title": "AI Engineer Intern",
+      "company": "Daxno Technologies",
+      "experience": "Internship",
+      "jobNature": "remote",
+      "location": "Islamabad, PIS, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=b71a50d1dcce65dc"
+    },
+    {
+      "job_title": "Laravel full stack developer",
+      "company": "Your Cloud Campus",
+      "experience": "2-3 years",
+      "jobNature": "remote",
+      "location": "Rawalpindi, PPB, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=f8bfeb8eabce1643"
+    },
+    {
+      "job_title": "Software Quality Assurance Engineer",
+      "company": "Decimal Solution",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Islamabad I-8/4, PTA, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=2d235a6393efeb33"
+    },
+    {
+      "job_title": "Senior Software Engineer",
+      "company": "NESL-IT (SMC PVT) LTD",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Islamabad I-10/Markaz, PTA, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=3b7553f0e67356c1"
+    },
+    {
+      "job_title": "Mechanical Engineer (HVAC)-Intern",
+      "company": "Telerelation",
+      "experience": "Internship",
+      "jobNature": "remote",
+      "location": "Islamabad, PIS, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=60a56cb86f5e5e5f"
+    },
+    {
+      "job_title": "Electrical Draftsman",
+      "company": "MEP Solutions",
+      "experience": "2-3 years",
+      "jobNature": "remote",
+      "location": "Islamabad, PIS, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=ec6652b8800bc0f1"
+    },
+    {
+      "job_title": "Senior Fullstack Developer (NestJS - NextJS - NodeJS)",
+      "company": "Hiring Solutions/Varnum Consulting. LLC",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Rawalpindi, PPB, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=a19adfd8805ffeac"
+    },
+    {
+      "job_title": "Sr. Software Engineer (.Net)",
+      "company": "DataQ Healthcare",
+      "experience": "4-6 years",
+      "jobNature": "remote",
+      "location": "Islamabad, PIS, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=2b48d2a2854eb9d1"
+    },
+    {
+      "job_title": "Software Engineer (React.js with .Net)",
+      "company": "Trilogy Spa Holdings",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Islamabad, PIS, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=1b751c54bae0a0cb"
+    },
+    {
+      "job_title": "Project Manager",
+      "company": "CareCloud",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Rawalpindi, PPB, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=78577b7c739f8328"
+    },
+    {
+      "job_title": "PBX Specialist",
+      "company": "Language Empire",
+      "experience": "3+ years",
+      "jobNature": "remote",
+      "location": "Rawalpindi, PPB, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=51ebe6d5d2bbcfd5"
+    },
+    {
+      "job_title": "Technical Writer",
+      "company": "Language Empire",
+      "experience": "2-3 years",
+      "jobNature": "remote",
+      "location": "Islamabad, PIS, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=16da93de3dd596f1"
+    },
+    {
+      "job_title": "Software Engineer- MERN",
+      "company": "Devsinc",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Islamabad, PIS, PK",
+      "salary": "N/A",
+      "apply_link": "https://pk.indeed.com/viewjob?jk=5a0308958d9b0194"
+    },
+    {
+      "job_title": "MySQL Developer",
+      "company": "CapiPlan",
+      "experience": "2-3 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/mysql-developer-at-capiplan-4180231503?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Specialist Software Engineer",
+      "company": "PMCL-JAZZ",
+      "experience": "4-6 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://jobs.workable.com/view/diWEztCg9HNfSa1yTSiaha/specialist-software-engineer-in-islamabad-at-pmcl-jazz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Backend Engineer (Java & NodeJS), Makro Head Office",
+      "company": "Makro PRO",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.expertini.com/jobs/job/backend-engineer-java-nodejs-makro-head-offic-islamabad-makro-pro-8e108baaea/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Angular Developer",
+      "company": "Translation Empire PK",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Rawalpindi",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/angular-developer-at-translation-empire-pk-4182748281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Software Engineering Team Lead (.NET Core/C# - Remote)",
+      "company": "Deel",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/software-engineering-team-lead-net-core-c%23-remote-at-deel-4180001671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Service Now Developer",
+      "company": "Evamp & Saanga",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/service-now-developer-at-evamp-saanga-4178218428?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Webflow Developer",
+      "company": "Funavry Technologies",
+      "experience": "2-3 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/webflow-developer-at-funavry-technologies-4177515576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Software Solutions Architect (US/Europe)",
+      "company": "Alachisoft",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/software-solutions-architect-us-europe-at-alachisoft-4178254212?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Associate, Channels Tech Specialists",
+      "company": "S&P Global",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/associate-channels-tech-specialists-at-s-p-global-4152779355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Software Systems Architect",
+      "company": "EWS Group",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.trabajo.org/job-3166-c6b3942cab0da357b5755d4b2c980406?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Backend Developer, Pakistan",
+      "company": "AutoScale Ventures",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://www.careers-page.com/autoscale-ventures/job/L8VRR683?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Experienced Team Lead Wanted",
+      "company": "Contour Software",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.trabajo.org/job-3166-d5e72cfc6ff36e93b65d81bba2efd542?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Mid-level Software Engineer",
+      "company": "Synergy-IT",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://www.getpakjob.com/jobs/view/mid-level-software-engineer-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Web and Mobile Applications Developer",
+      "company": "HR Ways",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.trabajo.org/job-3166-361cd136725cd4c9a2b7ae9f2c05ca78?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Software Engineer (Node.js)",
+      "company": "AXA Business Technologies",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/software-engineer-node-js-at-axa-business-technologies-4182485070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Full Stack Engineer-(Python-JavaScript)",
+      "company": "Veroke",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/full-stack-engineer-python-javascript-at-veroke-4178737720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Odoo Developer",
+      "company": "Silverdale",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/odoo-developer-at-silverdale-4179685984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Java Developer",
+      "company": "iPlex",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Rawalpindi",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/java-developer-at-iplex-4179625745?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "3D Computer Vision Engineer",
+      "company": "MOVRS",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.linkedin.com/jobs/view/3d-computer-vision-engineer-at-movrs-4176738708?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Technical Lead for Java Development",
+      "company": "NADRA Technologies Ltd",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Islamabad",
+      "salary": "N/A",
+      "apply_link": "https://pk.trabajo.org/job-3166-28c538adeb6ae1099cd561dcb8735ac4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "job_title": "Golang and ReactJs Developer",
+      "company": "GGateway for Outsourcing IT",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "West Bank · Palestine",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/palestine/jobs/golang-and-reactjs-developer-5272549/"
+    },
+    {
+      "job_title": "Senior IT Developer",
+      "company": "DSV",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Al Kuwait · Kuwait",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/kuwait/jobs/senior-it-developer-5270062/"
+    },
+    {
+      "job_title": "Oracle APEX Developer",
+      "company": "ORSERS Consulting",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Dubai · UAE",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/uae/jobs/oracle-apex-developer-5266466/"
+    },
+    {
+      "job_title": "Software Developer",
+      "company": "BUTEC S.A.L.",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Beirut · Lebanon",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/lebanon/jobs/software-developer-5265869/"
+    },
+    {
+      "job_title": ".Net SSS Application developer",
+      "company": "Starlink ME",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/net-sss-application-developer-5264578/"
+    },
+    {
+      "job_title": "RPA Developer",
+      "company": "TASC Outsourcing",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Dubai · UAE",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/uae/jobs/rpa-developer-5262972/"
+    },
+    {
+      "job_title": "WordPress Developer",
+      "company": "Power Pulse Marketing",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "New York · USA",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/usa/jobs/wordpress-developer-5262447/"
+    },
+    {
+      "job_title": "SAP BODS Developer",
+      "company": "VINIRMA Consulting Pvt.Ltd",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Doha · Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/sap-bods-developer-5261448/"
+    },
+    {
+      "job_title": "NET MAUI Developer .",
+      "company": "tradervolt",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Amman · Jordan",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/jordan/jobs/net-maui-developer-5257223/"
+    },
+    {
+      "job_title": "SAP BODS Developer",
+      "company": "VINIRMA Consulting Pvt.Ltd",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Doha · Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/sap-bods-developer-5256566/"
+    },
+    {
+      "job_title": "IT Developer",
+      "company": "Wared for water services",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Jeddah · Saudi Arabia",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/it-developer-5252177/"
+    },
+    {
+      "job_title": "Software Engineer",
+      "company": "Toq For information Technology",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Riyadh · Saudi Arabia",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/software-engineer-5252703/"
+    },
+    {
+      "job_title": "Programmer",
+      "company": "Confidential Company",
+      "experience": "2-4 years",
+      "jobNature": "remote",
+      "location": "Al Kuwait · Kuwait",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/kuwait/jobs/programmer-5253636/"
+    },
+    {
+      "job_title": "Senior SAP Developer – ABAP",
+      "company": "Starlink ME",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/senior-sap-developer-abap-5251248/"
+    },
+    {
+      "job_title": "Senior Consultant - Application Developer",
+      "company": "Starlink ME",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/senior-consultant-application-developer-5251236/"
+    },
+    {
+      "job_title": "SAP Developer – ABAP",
+      "company": "Starlink ME",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/sap-developer-abap-5251230/"
+    },
+    {
+      "job_title": "Experienced SAP Developer – ABAP",
+      "company": "Starlink ME",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/experienced-sap-developer-abap-5251203/"
+    },
+    {
+      "job_title": "Experienced Application Developer",
+      "company": "Starlink ME",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/experienced-application-developer-5251198/"
+    },
+    {
+      "job_title": "Consultant- Application Developer",
+      "company": "Starlink ME",
+      "experience": "5+ years",
+      "jobNature": "remote",
+      "location": "Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/consultant-application-developer-5251162/"
+    },
+    {
+      "job_title": "Power BI Dashboard Developer",
+      "company": "Candidzone Qatar",
+      "experience": "3-5 years",
+      "jobNature": "remote",
+      "location": "Doha · Qatar",
+      "salary": "N/A",
+      "apply_link": "https://www.bayt.com/en/qatar/jobs/power-bi-dashboard-developer-5250001/"
+    }
+  ]
+}
